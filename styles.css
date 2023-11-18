@@ -1,2 +1,19 @@
-
+div{
+	border: 1px solid black;
+	width:580px;
+	margin:20px;
+}
+.m {
+  width: 400px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 30px;
+	background-color:lightblue;
+}
+.m1{
+	border: 2px solid black;
+	width:300px;
+	padding:50px;
+	margin: 0px;
+}
 /* Your CSS Code here. */
